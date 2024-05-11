@@ -1,4 +1,4 @@
-# PDSA-Homework
+# pdsa-assignments
 The instructions of each homework are as follows.
 - hw1: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/HJ4n-eiPp
 - hw2: https://hackmd.io/zLsF_gc7RuqAfngMAVFhLA
