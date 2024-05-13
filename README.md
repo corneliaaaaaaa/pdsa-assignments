@@ -7,4 +7,4 @@ The instructions of each homework are as follows.
 - hw5: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/Hy3JDQoop
 - hw6: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/HJwBD7osa
 - hw7: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/H10TwXjsa
-<!-- - hw8: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/r1-Z_mjs -->
+- hw8: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/r1-Z_mjs
