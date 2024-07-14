@@ -8,3 +8,5 @@ The instructions of each homework are as follows.
 - hw6: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/HJwBD7osa
 - hw7: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/H10TwXjsa
 - hw8: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/r1-Z_mjs
+- hw9: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/rJL4O7ojp
+- hw10: https://hackmd.io/@CiqLOooyRwWmK--mMkfetA/BJJ_dQisa
